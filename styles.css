@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.container{
+    display: flex;
+  }
+  .imgage img{
+    width: 400px;
+    margin-right: 10px;
+  }
+  button{
+    background-color: red;
+    border: none;
+    padding: 4px 10px;
+    color: white;
+  }
