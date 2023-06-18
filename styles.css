@@ -1,5 +1,4 @@
-/*  your css code here. If applicable */
-.container{
+.hero{
     display: flex;
   }
   .imgage img{
@@ -11,4 +10,8 @@
     border: none;
     padding: 4px 10px;
     color: white;
+  }
+  .down{
+    justify-content: center;
+    align-items: center;
   }
